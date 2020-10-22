@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img alt="Happy" src=".github/logo.png" height="100px">
+  <img alt="Twitch-clone" src=".github/logo.png" height="100px">
 </h1>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/GabrielSouzaCampos/twitch-clone?color=15c3d6">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GabrielSouzaCampos/twitch-clone?color=15c3d6">
   <img alt="Project license" src="https://img.shields.io/github/license/GabrielSouzaCampos/twitch-clone?color=15c3d6">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/GabrielSouzaCampos/twitch-clone?color=15c3d6">
-  <a href="https://github.com/GabrielSouzaCampos/happy/commits/master">
+  <a href="https://github.com/GabrielSouzaCampos/twitch-clone/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GabrielSouzaCampos/twitch-clone?color=15c3d6">
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-15c3d6?style=flat">
   </a>
