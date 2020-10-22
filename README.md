@@ -36,7 +36,7 @@
 <br>
 
 <p align="center">
-    <img alt="Screens" src=".github/twitch-screens.png" height="350px" />
+    <img alt="Screens" src=".github/twitch-screen.png" height="350px" />
 </p>
 
 ## :bookmark: About
