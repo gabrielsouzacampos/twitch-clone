@@ -41,7 +41,7 @@
 
 ## :bookmark: About
 
-This project consists of the clone of the Twitch.tv mobile home page for studies by Rocketseat  **[Rocketseat](https://rocketseat.com.br/)**.
+This project consists of the clone of the Twitch.tv mobile home page for studies by **[Rocketseat](https://rocketseat.com.br/)**.
 
 <br>
 
